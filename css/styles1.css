@@ -1,0 +1,83 @@
+<style>
+html { scroll-behavior: smooth; }
+body {
+  background-color: #ffffcc;
+  background-image: url('../images/s.jpg');
+  overflow-x: hidden;
+}
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #A9A9A9; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background:#808080; 
+}
+a
+{
+	font-family:Cursive !important;
+	color:#007399 ;
+}
+.input[type=text]
+{
+  padding: 2px 2px !important;
+  display: inline-block !important;
+  border: 1px solid #ccc !important;
+}
+table, th, td {
+	font-size:12px !important;
+  border: 1px solid black !important;
+  border-collapse: collapse !important;
+  vertical-align: bottom !important;
+}
+.scrollit {
+	background-color:white;
+	overflow:auto;
+}
+.asd{
+	background-color:white;
+	position: center;
+	width: 40%;
+	outline-style: double;
+}
+p.double{
+	outline-style: double;
+	width: 40%;
+	background-color:white;
+	color:red;
+}
+.logo{
+	width:300px;
+	font-family:Cursive ;
+	color:tomato ;
+	font-size:25px;
+}
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #A9A9A9; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background:#808080; 
+}
+</style>
