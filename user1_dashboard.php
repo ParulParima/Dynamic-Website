@@ -183,7 +183,7 @@ function m($row)
 </head>
 <body> 
 <nav class="navbar navbar-light bg-dark justify-content-between">
-   <a class="logo" >A.K.ROY & ASSOCIATES</a>
+   <a class="logo" >XYZ & ASSOCIATES</a>
     <a href="main.php">LOGOUT</a>
 </nav>
 	<center><br>
