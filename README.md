@@ -7,3 +7,7 @@
 | 1 | admin | admin |
 | 2 | user1 | user1 |
 | 3 | user2 | user2 |
+
+Here is a demo video:
+
+<https://github.com/ParulParima/Dynamic-Website/blob/main/demo_Video.mp4>
